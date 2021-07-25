@@ -74,4 +74,4 @@ remove_empty_files
 # download the following files to the root folder if they do not exist
 # for future reference, alternate provider of 'free' OpenJDK
 # download "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.1%2B12/" "OpenJDK12U-jdk_x64_linux_hotspot_12.0.1_12.tar.gz"
-downloadTo "https://access.cdn.redhat.com/content/origin/files/sha256/23/2323ad44d75df1a1e83048a34e196ddfedcd6c0f6c49ea59bf08095e3bb9ef65/rhel-8.1-x86_64-dvd.iso?_auth_=1627149443_6ff7b4dfb1f3c10dd25b093c4a26da34" "rhel-8.3-x86_64-dvd.iso"
+downloadTo "https://access.cdn.redhat.com/content/origin/files/sha256/48/48f955712454c32718dcde858dea5aca574376a1d7a4b0ed6908ac0b85597811/rhel-8.4-x86_64-dvd.iso?_auth_=1627211339_8b59b6537f4471b7b4e05f5f23b45160" "rhel-8.3-x86_64-dvd.iso"
